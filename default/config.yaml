@@ -67,6 +67,10 @@ whitelist:
   - 99.173.22.98
   - 178.208.188.115
   - 100.64.0.2
+  - 100.64.0.8
+  - 100.64.0.7
+  - 100.64.0.2
+  - 223.66.44.98
 # Automatically whitelist Docker host and gateway IPs
 whitelistDockerHosts: true
 # Toggle basic authentication for endpoints
